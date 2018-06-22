@@ -1,0 +1,83 @@
+.App-header { 
+  background-color:#004444;
+  height: 120px;
+  padding: 15px;
+  margin:0px;
+}
+
+h1 {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font-family: Montserrat;
+  font-style: bold;
+  letter-spacing: 5px;
+  vertical-align: center;
+  line-height: 60px;  
+}
+
+.bubbleIcon {
+  height: 40px;
+  width: 120px;
+  border: 3px solid white; 
+  border-radius: 15px;
+  color: white; 
+  font-family: Montserrat;
+  text-align:center;
+  vertical-align: center;
+  line-height: 40px;
+  position: absolute;
+  top: 0px;
+  right: 15px;
+}
+
+
+.border {
+  height: 20px;
+  background-color: #dbdbdb;
+}
+
+h2 {
+  font-family: Montserrat;
+  padding: 20px 40px;
+}
+
+h3 {
+  font-family: Montserrat;
+  padding: 20px 70px;
+  text-align: center;
+  letter-spacing: .5px;
+}
+
+.bodyExplanation p {
+  padding: 0px 70px;
+  opacity: 1;
+  transition: opacity 1s linear;
+  transition-delay: .5s;
+}
+
+.bodyBar {
+  background-color: #004444;
+  height: 80px;
+  margin-top: 40px;
+  color: white; 
+  text-align: center;
+  vertical-align: center;
+  line-height: 40px;
+  
+  
+}
+
+.keyComponents {
+  border: 3px solid #dbdbdb;
+  border-radius: 50px;
+  width: 250px;
+  padding: 10px 10px;
+  display: inline-block;
+  margin: 50px 50px;
+  text-align: center;
+}
+
+.keyComponents p {
+  font-family: Montserrat;
+}
